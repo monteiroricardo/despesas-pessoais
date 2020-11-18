@@ -22,7 +22,7 @@ style="background-color: #E0E0E0">
   <img alt="App Demo" src="assetsGithub/parte02.gif">
 </p>
 </div>
-## :rocket: Tecnologias
+:rocket: Tecnologias
 
 Esse projeto foi desenvolvido utilizandoendo as seguintes tecnologias:
 
